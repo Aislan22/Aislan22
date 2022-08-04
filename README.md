@@ -4,7 +4,7 @@ Oi 👋 Meu nome é Aislan
 Desenvolvedor de Software FullStack
 -----------------------------
 
-Sou um desenvolvedor de 21 anos e me dedico a programação desde os 19. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
+Sou um desenvolvedor de 21 anos e me dedico a programação desde os 19. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front e back-end, buscando através de aplicações impactar a vida de milhares de usuários.
 
 Formado em Desenvolvimento de Sistemas, Também sou aluno [Explorer da rocketseat](https://www.rocketseat.com.br/explorer?gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3mKU9V0Az-sEysD3txfG0Abehr9VPCP1CotJwmPeHplv611ogTFY4kaAjdVEALw_wcB).
 
