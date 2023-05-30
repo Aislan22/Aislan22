@@ -4,15 +4,15 @@ Oi 👋 Meu nome é Aislan
 Desenvolvedor de Software FullStack
 -----------------------------
 
-Sou um desenvolvedor de 21 anos e me dedico a programação desde os 19. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front e back-end, buscando através de aplicações impactar a vida de milhares de usuários.
+Sou um desenvolvedor de 22 anos e me dedico a programação desde os 19. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front e back-end, buscando através de aplicações impactar a vida de milhares de usuários.
 
 Formado em Desenvolvimento de Sistemas, Também sou aluno [explorer da rocketseat](https://www.rocketseat.com.br/explorer?gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3mKU9V0Az-sEysD3txfG0Abehr9VPCP1CotJwmPeHplv611ogTFY4kaAjdVEALw_wcB).
 
 * 🌍  Estou sediado em  São Vicente, SP
 * ✉️  Você pode entrar em contato comigo em [aislanmatos2@gmail.com](mailto:aislanmatos2@gmail.com)
-* 🧠  Estou aprendendo Javascript Avançado, React com NodeJS e estrutura de dados
+* 🧠  Estou aprendendo estrutura de dados, algoritmos e javascript avançado
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
-* ⚡  Eu amo esportes e meu favorito é Futebol
+* ⚡  Eu amo esportes e meu favorito é musculação
 
 ### Skills
 
