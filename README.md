@@ -10,7 +10,7 @@ Formado em Desenvolvimento de Sistemas, Também sou aluno [explorer da rocketsea
 
 * 🌍  Estou sediado em  São Vicente, SP
 * ✉️  Você pode entrar em contato comigo em [aislanmatos2@gmail.com](mailto:aislanmatos2@gmail.com)
-* 🧠  Estou aprendendo estrutura de dados, algoritmos e javascript avançado
+* 🧠  Estou aprendendo estrutura de dados e algoritmos.
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡  Eu amo esportes e meu favorito é musculação
 
